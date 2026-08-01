@@ -1,5 +1,3 @@
-using System;
-
 namespace QA
 {
     public class UserNameSet
